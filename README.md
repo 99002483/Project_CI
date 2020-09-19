@@ -4,3 +4,4 @@
 
 ![CI](https://github.com/99002483/Project_CI/workflows/CI/badge.svg)
 
+![C/C++ CI](https://github.com/99002483/Project_CI/workflows/C/C++%20CI/badge.svg)
